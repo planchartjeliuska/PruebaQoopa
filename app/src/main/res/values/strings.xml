@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PruebaQOOPA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fragment_list_products_create_product">Crear Producto</string>
+    <string name="fragment_edit_product_title_product">Nombre del producto</string>
+    <string name="fragment_edit_product_description_product">Descripción del producto</string>
+    <string name="fragment_edit_product_url_image_product">Url de la imagen del producto (opcional)</string>
+    <string name="fragment_edit_product_select_date">Selecciona fecha</string>
+    <string name="fragment_edit_product_save_product">Guardar Producto</string>
+</resources>
